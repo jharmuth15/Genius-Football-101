@@ -1,0 +1,93 @@
+body {
+    background-color: #008000;
+    color: black;
+  font-family: Arial;
+    background-color:;
+      text-align:center; 
+background-repeat: inherit;
+
+  }
+#Basics{
+   width:800px;
+    background-color:#FF4500;
+    color:white;
+    border:Black 4px solid;
+    border-radius: 20px;
+    padding:22px;
+    font-size:20px;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+button:hover{
+  transform:scale(1.1); 
+  background-color:white;}
+button{
+  margin-top:.4em; 
+  height:2.4em; 
+  width:150px; 
+  font-size:1em; 
+  background-color:white; 
+  border:blue; 
+     padding:0px;
+    margin: 0 auto;
+      border-radius: 230px;
+  font-weight:bold;
+}
+#Field{
+   width:800px;
+    background-color:#FF4500;
+    color:white;
+    border:Black 4px solid;
+    border-radius: 20px;
+    padding:22px;
+    font-size:20px;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+#Timing{
+   width:800px;
+    background-color:blue;
+    color:white;
+    border:Black 4px solid;
+    border-radius: 20px;
+    padding:22px;
+    font-size:20px;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+#Yards{
+   width:800px;
+    background-color:blue;
+    color:white;
+    border:Black 4px solid;
+    border-radius: 20px;
+    padding:22px;
+    font-size:20px;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+#Turnovers{
+   width:800px;
+    background-color:red;
+    color:white;
+    border:Black 4px solid;
+    border-radius: 20px;
+    padding:22px;
+    font-size:20px;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+#Positions{
+   width:800px;
+    background-color:red;
+    color:white;
+    border:Black 4px solid;
+    border-radius: 20px;
+    padding:22px;
+    font-size:20px;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+h2{
+    color: white
+}

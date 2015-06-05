@@ -1,0 +1,73 @@
+
+#AFC{
+    width:800px;
+    background-color:#B00000 ;
+    color:white;
+    border:black 4px solid;
+    border-radius: 0px;
+    padding:0px;
+    font-size:20px;
+  width: 50%;
+    margin: 0 auto;
+
+}
+button:hover{
+  transform:scale(1.1); 
+  background-color:white;}
+button{
+  margin-top:.4em; 
+  height:2.4em; 
+  width:150px; 
+  font-size:1em; 
+  background-color:white; 
+  border:blue; 
+     padding:0px;
+    margin: 0 auto;
+      border-radius: 230px;
+  font-weight:bold;
+}
+
+#NFC{
+    width:800px;
+    background-color:#003366;
+    color:white;
+    border:black 4px solid;
+    border-radius: 0px;
+    padding:0px;
+    font-size:20px;
+  width: 50%;
+    margin: 0 auto;
+
+}
+#intro{
+    color:white;
+}
+
+li{font-weight:bold; 
+  cursor:pointer;}
+
+#AFCText{
+   width: 50%;
+    margin: 0 auto;
+
+}
+#NFCText{
+   width: 50%;
+    margin: 0 auto;
+}
+html{
+  Font-family: Arial
+    
+}
+
+body { 
+  background-color: green;
+  background-repeat: inherit;
+      text-align:center; 
+
+}
+h2{
+    color: white;
+}
+
+
